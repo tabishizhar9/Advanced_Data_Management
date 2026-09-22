@@ -1,4 +1,3 @@
-USE sql_store;
 
 SELECT 
     c.customer_id,
